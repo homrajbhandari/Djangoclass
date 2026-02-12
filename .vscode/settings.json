@@ -1,0 +1,11 @@
+{
+  //   "editor.settings.fontSize":34,
+  // "python.pythonPath": "/usr/local/bin/python3",
+  "python.languageServer": "Pylance",
+  "emmet.includeLanguages": {
+    "django-html": "html"
+  },
+  "[html][django-html]": {
+    "editor.defaultFormatter": "monosans.djlint"
+  }
+}
